@@ -1,8 +1,3 @@
-document.addEventListener('contextmenu', function (e) {
-   if (e.target.tagName === 'IMG') {
-      e.preventDefault();
-   }
-});
 const slides = document.querySelectorAll(".slide");
 var counter = 0;
 slides.forEach(
