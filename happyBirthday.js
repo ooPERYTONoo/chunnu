@@ -611,5 +611,5 @@ function nextAnimation() {
     let btnHtml = `<button class="btn fade-in" onclick="runNow()"><i class="animation"></i>explore<i class="animation"></i>
           </button>`
     btn.innerHTML = btnHtml
-  }, 9000);
+  }, 7500);
 }
