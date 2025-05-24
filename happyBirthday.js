@@ -599,6 +599,7 @@ function nextAnimation() {
     
       <div id="wishContainer" class="container hidden">
       </div>
+      <div id="Target"></div>
 <div class="foot-info"><a href="https://techwithus.netlify.app/" target="_blank">Made by Tech With Us</a></div>
 
       `

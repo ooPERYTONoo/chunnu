@@ -111,6 +111,7 @@
          finalContainer.insertAdjacentElement('afterend', btn_div)
       };
       let imgShow = () => {
+         document.getElementById("target").scrollIntoView({ behavior: "smooth" });
          const finalContainer = document.getElementById('wishContainer');
 
          let inner = ` <main class="main-img">
